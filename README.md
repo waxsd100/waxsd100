@@ -1,8 +1,9 @@
 
-![waxsd100 github stats](https://github-readme-stats.vercel.app/api?username=waxsd100&count_private=true&show_icons=true&theme=dark)
 
 ![Minecraft](https://crafatar.com/renders/body/fc49a2ac-746a-4191-b444-98143a2d5469 "waxsd100")
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=wakokara)](https://twitter.com/wakokara/)
+
+![waxsd100 github stats](https://github-readme-stats.vercel.app/api?username=waxsd100&count_private=true&show_icons=true&theme=dark)
 ![waxsd100 github-profile-trophy](https://github-profile-trophy.vercel.app/?username=waxsd100&theme=onedark )
 
 
