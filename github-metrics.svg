@@ -923,8 +923,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge low">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="88.83000000000001 329"/>
-                  <text x="60" y="60" dominant-baseline="central">27</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="138.18 329"/>
+                  <text x="60" y="60" dominant-baseline="central">42</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -999,7 +999,7 @@
           <div class="field">
             <div class="audit text">
               
-                4.71 s
+                4.73 s
               
             </div>
             
@@ -1010,7 +1010,7 @@
           <div class="field">
             <div class="audit text">
               
-                5.22 s
+                5.21 s
               
             </div>
             
@@ -1021,7 +1021,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.47 s
+                0.39 s
               
             </div>
             
@@ -1032,7 +1032,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.41 s
+                1.31 s
               
             </div>
             
@@ -1043,7 +1043,7 @@
           <div class="field">
             <div class="audit text">
               
-                4.33 s
+                4.51 s
               
             </div>
             
@@ -1054,7 +1054,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.16 
+                1.01 
               
             </div>
             
@@ -2287,7 +2287,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 28 Jan 2021 01:50:53 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 28 Jan 2021 02:28:19 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
