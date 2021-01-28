@@ -923,8 +923,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge low">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="118.44 329"/>
-                  <text x="60" y="60" dominant-baseline="central">36</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="88.83000000000001 329"/>
+                  <text x="60" y="60" dominant-baseline="central">27</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -999,7 +999,7 @@
           <div class="field">
             <div class="audit text">
               
-                4.25 s
+                4.38 s
               
             </div>
             
@@ -1010,7 +1010,7 @@
           <div class="field">
             <div class="audit text">
               
-                4.83 s
+                4.90 s
               
             </div>
             
@@ -1021,7 +1021,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.30 s
+                0.31 s
               
             </div>
             
@@ -1032,7 +1032,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.61 s
+                1.31 s
               
             </div>
             
@@ -1043,7 +1043,7 @@
           <div class="field">
             <div class="audit text">
               
-                4.09 s
+                4.20 s
               
             </div>
             
@@ -2287,7 +2287,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Tokyo</span>
-          <span>Last updated Thu, 28 Jan 2021 07:30:18 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 28 Jan 2021 08:00:11 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
