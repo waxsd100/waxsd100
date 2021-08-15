@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
-<!--
-**waxsd100/waxsd100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![waxsd100 github stats](https://github-readme-stats.vercel.app/api?username=waxsd100&count_private=true&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![waxsd100 github-profile-trophy](https://github-profile-trophy.vercel.app/?username=waxsd100&theme=onedark )
+
+![Minecraft](https://crafatar.com/renders/body/fc49a2ac-746a-4191-b444-98143a2d5469?default=MHF_Steve&overlay "waxsd100")
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=wakokara)](https://twitter.com/wakokara/)
+
+![Metrics](https://metrics.lecoq.io/waxsd100?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&projects=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&projects.limit=4&projects.repositories=TUSB&stars.limit=4&config.timezone=Asia%2FTokyo)
+
