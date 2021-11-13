@@ -44,10 +44,10 @@ jobs:
           plugin_skyline_frames: 60         # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5       # Set image quality
           plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+#       - uses: actions/checkout@v2
+#       - uses: vn7n24fzkq/github-profile-summary-cards@release
+#         env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           USERNAME: ${{ github.repository_owner }}
 
