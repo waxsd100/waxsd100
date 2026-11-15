@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikensec/php2shell-lab</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Offline, reproducible lab to safely analyse an untrusted PoC for CVE-2026-109618/109619 and build detection rules. No exploit included; bring your own sample.</div>
@@ -1734,7 +1734,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2026, 09:43:21 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 15 Nov 2026, 16:31:14 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
