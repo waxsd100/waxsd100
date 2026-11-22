@@ -8,6 +8,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -27,6 +29,25 @@ jobs:
           plugin_languages: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+
+      - name: Checkout main for X profile card update
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update X profile card via FxTwitter
+        run: python3 scripts/generate_x_card.py
+
+      - name: Commit updated X profile card
+        run: |
+          if ! git diff --quiet assets/x-profile-card.svg; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/x-profile-card.svg
+            git commit -m "Update x-profile-card.svg - [Skip GitHub Action]"
+            git push origin HEAD:main
+          fi
 #       - uses: actions/checkout@v2
 #       - uses: vn7n24fzkq/github-profile-summary-cards@release
 #         env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token

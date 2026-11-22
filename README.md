@@ -52,6 +52,13 @@
         <br />
         <a href="https://github.com/waxsd100"><img src="https://raw.githubusercontent.com/waxsd100/github-profile-summary-cards/master/profile-summary-card-output/radical/3-stats.svg" width="328" alt="Stats" /></a><a href="https://github.com/waxsd100"><img src="https://raw.githubusercontent.com/waxsd100/github-profile-summary-cards/master/profile-summary-card-output/radical/4-productive-time.svg" width="328" alt="Productive Time" /></a>
       </p>
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="34" alt="Gengar" />
+        X / TWITTER
+      </h3>
+      <p align="center">
+        <a href="https://x.com/wakokara"><img src="./assets/x-profile-card.svg" width="660" alt="X Profile (@wakokara)" /></a>
+      </p>
       <details>
         <summary align="center"><b>👾 Detailed Metrics（クリックで展開）</b></summary>
         <br />
