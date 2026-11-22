@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
+  <img src="./assets/pacman-divider.gif" width="100%" alt="Pac-Man top divider" />
 </p>
 
 <div align="center">
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="640" alt="Cyberpunk Pixel Gaming Room" />
+  <img src="./assets/cyberpunk-pacman-frame.gif" width="680" alt="Cyberpunk Pixel Gaming Room with Pac-Man Loop" />
 </p>
 
 <p align="center">
-  <img src="./assets/pacman-divider.gif" width="640" alt="Pac-Man divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 </p>
 
 <h3 align="center">
@@ -76,5 +76,5 @@
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
+  <img src="./assets/pacman-divider-reverse.gif" width="100%" alt="Pac-Man bottom divider" />
 </p>
