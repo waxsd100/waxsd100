@@ -47,7 +47,7 @@
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
       <rect width="3" height="32" x="0" y="10" rx="1.5" fill="#FE428E" />
       <text x="14" y="21" class="stat-label">POSTS</text>
-      <text x="14" y="42" class="stat-val" fill="#FE428E">61,910</text>
+      <text x="14" y="42" class="stat-val" fill="#FE428E">61,909</text>
     </g>
     <g transform="translate(180, 112)">
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
@@ -59,7 +59,7 @@
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
       <rect width="3" height="32" x="0" y="10" rx="1.5" fill="#F8D847" />
       <text x="14" y="21" class="stat-label">FOLLOWING</text>
-      <text x="14" y="42" class="stat-val" fill="#F8D847">1,125</text>
+      <text x="14" y="42" class="stat-val" fill="#F8D847">1,127</text>
     </g>
     <g transform="translate(492, 112)">
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
