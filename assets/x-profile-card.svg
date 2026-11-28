@@ -53,7 +53,7 @@
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
       <rect width="3" height="32" x="0" y="10" rx="1.5" fill="#A9FEF7" />
       <text x="14" y="21" class="stat-label">FOLLOWERS</text>
-      <text x="14" y="42" class="stat-val" fill="#A9FEF7">918</text>
+      <text x="14" y="42" class="stat-val" fill="#A9FEF7">919</text>
     </g>
     <g transform="translate(336, 112)">
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
@@ -65,7 +65,7 @@
       <rect width="144" height="52" rx="6" fill="#1c1a30" stroke="#2f2b4f" stroke-width="1" />
       <rect width="3" height="32" x="0" y="10" rx="1.5" fill="#BD93F9" />
       <text x="14" y="21" class="stat-label">LIKES</text>
-      <text x="14" y="42" class="stat-val" fill="#BD93F9">19,973</text>
+      <text x="14" y="42" class="stat-val" fill="#BD93F9">19,971</text>
     </g>
 
   <text x="636" y="180" text-anchor="end" class="footer">Powered by FxTwitter · Updated 2026-11-28 JST</text>
